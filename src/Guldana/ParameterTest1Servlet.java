@@ -19,7 +19,7 @@ public class ParameterTest1Servlet extends HttpServlet{
                 "<body bgcolor =\"#f0f0f0\">\n"+
                 "h1 align = \"center\">"+title+"</h1>\n"+
                 "<ul>\n"+
-                "<li><b>First Name</b>:"
+                "<li><b>First Nameу</b>:"
                 +request.getParameter("first_name")+  "\n" +
                 "<li><b>Last Name </b>:"
                 +request.getParameter("last_name")+  "\n"+
